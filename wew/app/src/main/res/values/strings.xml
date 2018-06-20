@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Mas Kardi</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Lulusan">
+
+        <item>-- Pilih Lulusan--</item>
+        <item>SMA</item>
+        <item>SMK</item>
+        <item>D3</item>
+        <item>D4/S1</item>
+
+    </string-array>
+
+    <string-array name="Bidang">
+
+        <item>-- Pilih Bidang --</item>
+        <item>Teknik Informatika</item>
+        <item>Sistem Infromasi</item>
+        <item>Ekonomi</item>
+
+    </string-array>
+
+    <string name="slide_1_title">Skill</string>
+    <string name="slide_1_desc">Temukan Potensi yang anda miliki</string>
+
+    <string name="slide_2_title">Lowongan Pekerjaan</string>
+    <string name="slide_2_desc">Temukan dengan mudah lowongan pekerjaan yang sesuai skill anda</string>
+
+    <string name="slide_3_title">Percaya Diri</string>
+    <string name="slide_3_desc">Gali percaya diri anda dengan melakukan tes uji coba</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="login_success">login success</string>
+    <string name="login">LOGIN</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="forgot_your_password">Forgot your password ?</string>
+    <string name="go">GO</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="register">REGISTER</string>
+    <string name="Deskripsi">Lowongan FrontEnd dan BackEnd\n
+    PT.KARYA ANAK BANGSA membutuhkan programmer di bidang front end dan Back end </string>
+    <string name="Reqruitment">HTML 5 CSS 3\n
+    ReacJS
+    Git</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_pertanyaan_fix">PertanyaanFix</string>
+    <string name="title_activity_input">Input</string>
+    <string name="title_activity_final">Final</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
